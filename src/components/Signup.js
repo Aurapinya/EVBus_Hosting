@@ -46,7 +46,7 @@ const Signup = () => {
 
           <button className="btsign" type="submit">Signup</button>      
         </div>
-       
+        <p><a href="/">Already have an account</a></p>
       </form>
         </div>
     </div>
